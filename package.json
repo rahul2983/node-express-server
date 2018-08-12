@@ -1,0 +1,22 @@
+{
+  "name": "node-express-server",
+  "version": "1.0.0",
+  "description": "Testing serving of node express server using Nginx and cloud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul2983/node-express-server.git"
+  },
+  "author": "Rahul Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul2983/node-express-server/issues"
+  },
+  "homepage": "https://github.com/rahul2983/node-express-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
